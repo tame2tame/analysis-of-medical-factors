@@ -33,11 +33,7 @@ that influence kidney function in the post-operative period.
 ## Stack
 ![NumPy](https://img.shields.io/badge/NumPy-D6759E?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-D6759E?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-D6759E?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Catboost](https://img.shields.io/badge/catboost-D6759E?style=for-the-badge&logo=catboost&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikitlearn-D6759E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-D6759E?style=for-the-badge&logo=Python&logoColor=white)
 
-## Data
-
-De-identified clinical dataset including pre- and post-operative blood tests,
-patient health indicators, and surgery parameters.
